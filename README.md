@@ -3,10 +3,24 @@ This project aims to investigate interpretable attention mechanisms by leveragin
 
 
 ## 1. Data Preparation and Analysis
-Time-Series Forecasting Financial Data
-- Understanding the Data: Analyze the daily closing value of the stock index.
-- Preprocessing: Prepare the data for model training.
-- Visualization: Visualize the data for better understanding and insight.
+Task: Time-Series Forecasting Financial Data
+
+<img src="https://github.com/user-attachments/assets/9675ecc1-b654-4b35-8d1d-697740e0dbf6" width=400/>
+
+Understanding the Data: 
+- Analyze the daily closing value of the stock index.
+- Identify trends, seasonality, and potential anomalies in the data.
+
+Preprocessing: 
+(- Clean the data by handling missing values and outliers.)
+- Normalize or scale the data for better model performance.
+
+Feature Engineering:
+- ?
+
+Visualization: 
+- Visualize the raw and processed data to gain insights into its structure and patterns.
+- Use tools like matplotlib or seaborn for data visualization.
 
 ## 2. Attention Types
 a. Softness of attention
@@ -26,7 +40,7 @@ CNNs: Apply spatial attention in convolutional neural networks to enhance image 
 c. Input representation
 
 - Self Attention
-Transformers (e.g., MHA): Utilize self-attention mechanisms, such as multi-head attention (MHA), in transformer architectures for tasks requiring extensive contextual understanding.
+Transformers: Utilize self-attention mechanisms, such as multi-head attention (MHA), in transformer architectures for tasks requiring extensive contextual understanding.
 
 d. Output representation
 
