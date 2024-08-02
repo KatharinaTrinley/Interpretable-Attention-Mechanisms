@@ -70,7 +70,7 @@ c. Interpretability Analysis:
 ---
 ---
 # Literature Review
-### Most relevant literature
+### TODO: Divide into Most relevant >>> Relevant literature
 1. About Financial Time-Series Analysis
 
 
@@ -85,6 +85,50 @@ c. Interpretability Analysis:
       archivePrefix={arXiv},
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2407.02646}, 
+}
+```
+```bibtex
+@misc{räuker2023transparentaisurveyinterpreting,
+      title={Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks}, 
+      author={Tilman Räuker and Anson Ho and Stephen Casper and Dylan Hadfield-Menell},
+      year={2023},
+      eprint={2207.13243},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2207.13243}, 
+}
+```
+```bibtex
+@misc{zhao2023explainabilitylargelanguagemodels,
+      title={Explainability for Large Language Models: A Survey}, 
+      author={Haiyan Zhao and Hanjie Chen and Fan Yang and Ninghao Liu and Huiqi Deng and Hengyi Cai and Shuaiqiang Wang and Dawei Yin and Mengnan Du},
+      year={2023},
+      eprint={2309.01029},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2309.01029}, 
+}
+```
+```bibtex
+@misc{ferrando2024primerinnerworkingstransformerbased,
+      title={A Primer on the Inner Workings of Transformer-based Language Models}, 
+      author={Javier Ferrando and Gabriele Sarti and Arianna Bisazza and Marta R. Costa-jussà},
+      year={2024},
+      eprint={2405.00208},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2405.00208}, 
+}
+```
+```bibtex
+@misc{bereska2024mechanisticinterpretabilityaisafety,
+      title={Mechanistic Interpretability for AI Safety -- A Review}, 
+      author={Leonard Bereska and Efstratios Gavves},
+      year={2024},
+      eprint={2404.14082},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2404.14082}, 
 }
 ```
 
