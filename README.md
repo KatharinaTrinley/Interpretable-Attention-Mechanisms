@@ -71,10 +71,22 @@ c. Interpretability Analysis:
 ---
 # Literature Review
 ### Most relevant literature
-Topic 1: Financial Time-Series Analysis
+1. About Financial Time-Series Analysis
 
 
-Topic 3: Model Implementation (RNNs, CNNs, Transformer)
+2. About Interpretability of Attention
+
+@misc{rai2024practicalreviewmechanisticinterpretability,
+      title={A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models}, 
+      author={Daking Rai and Yilun Zhou and Shi Feng and Abulhair Saparov and Ziyu Yao},
+      year={2024},
+      eprint={2407.02646},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2407.02646}, 
+}
+
+4. Model Implementation (RNNs, CNNs, Transformer)
 - @inproceedings{10.1145/3604237.3626868,
 author = {Cao, Defu and Zheng, Yixiang and Hassanzadeh, Parisa and Lamba, Simran and Liu, Xiaomo and Liu, Yan},
 title = {Large Scale Financial Time Series Forecasting with Multi-faceted Model},
