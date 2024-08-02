@@ -76,6 +76,7 @@ c. Interpretability Analysis:
 
 2. About Interpretability of Attention
 
+```bibtex
 @misc{rai2024practicalreviewmechanisticinterpretability,
       title={A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models}, 
       author={Daking Rai and Yilun Zhou and Shi Feng and Abulhair Saparov and Ziyu Yao},
@@ -85,9 +86,11 @@ c. Interpretability Analysis:
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2407.02646}, 
 }
+```
 
 4. Model Implementation (RNNs, CNNs, Transformer)
-- @inproceedings{10.1145/3604237.3626868,
+```bibtex
+@inproceedings{10.1145/3604237.3626868,
 author = {Cao, Defu and Zheng, Yixiang and Hassanzadeh, Parisa and Lamba, Simran and Liu, Xiaomo and Liu, Yan},
 title = {Large Scale Financial Time Series Forecasting with Multi-faceted Model},
 year = {2023},
@@ -104,8 +107,10 @@ keywords = {Distributional shifts, Financial time series, Forecasting algorithm}
 location = {Brooklyn, NY, USA},
 series = {ICAIF '23}
 }
+```
 
-- @article{10.1007/s11063-022-10767-z,
+```bibtex
+@article{10.1007/s11063-022-10767-z,
 author = {Kirisci, Melih and Cagcag Yolcu, Ozge},
 title = {A New CNN-Based Model for Financial Time Series: TAIEX and FTSE Stocks Forecasting},
 year = {2022},
@@ -124,7 +129,7 @@ pages = {3357–3374},
 numpages = {18},
 keywords = {Convolutional neural network, Financial time series, Forecasting, Deep learning}
 }
-
+```
 
 
 ### more literature
